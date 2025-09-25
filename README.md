@@ -1,4 +1,4 @@
-# ESP8266 Vacuum Robot Controller
+# Vacuum Robot Controller
 
 Welcome to the setup guide for the **ESP8266 Vacuum Robot Controller**. This project enables you to control a vacuum robot using an ESP8266 microcontroller and a web-based interface. The provided firmware (`esp8266_vacuum_code.txt`) and web interface (`vacuum_control_app.html`) allow for manual control, automatic cleaning, and status monitoring. Follow this guide to set up the project using the Arduino IDE.
 
